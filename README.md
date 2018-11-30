@@ -55,6 +55,8 @@ Examples of integer encodings (for the sake of completion):
 [1,2,3]
 ```
 
+## Youtube channel
+[Siraj Raval][501] AI education
 
 ## Useful link
 [Tensorflow hub][301] Tensorflow pre-trained model  
@@ -84,3 +86,7 @@ Useful link
 -->
 [301]: https://www.tensorflow.org/hub/
 [302]: https://scikit-learn.org/stable/
+
+
+
+[501]: https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
