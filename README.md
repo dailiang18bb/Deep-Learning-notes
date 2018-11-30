@@ -55,6 +55,10 @@ Examples of integer encodings (for the sake of completion):
 [1,2,3]
 ```
 
+
+## Useful link
+[Tensorflow hub][301] Tensorflow pre-trained model
+
 ## Reference
 Thanks to those great writers/ instructors/scholars   
 [Deep Learning #3: More on CNNs & Handling Overfitting][001], Rutger Ruizendaal   
@@ -73,3 +77,8 @@ Link reference:
 [002]: https://jovianlin.io/cat-crossentropy-vs-sparse-cat-crossentropy/
 [003]: https://stanford.edu/~shervine/teaching/cs-229.html
 [004]: https://stanford.edu/~shervine/teaching/cs-230.html
+
+<!--
+Useful link
+-->
+[301]: https://www.tensorflow.org/hub/
