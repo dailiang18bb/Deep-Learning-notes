@@ -57,7 +57,8 @@ Examples of integer encodings (for the sake of completion):
 
 
 ## Useful link
-[Tensorflow hub][301] Tensorflow pre-trained model
+[Tensorflow hub][301] Tensorflow pre-trained model  
+[scikit-learn][302] Machine Learning in Python
 
 ## Reference
 Thanks to those great writers/ instructors/scholars   
@@ -82,3 +83,4 @@ Link reference:
 Useful link
 -->
 [301]: https://www.tensorflow.org/hub/
+[302]: https://scikit-learn.org/stable/
