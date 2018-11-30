@@ -58,7 +58,9 @@ Examples of integer encodings (for the sake of completion):
 ## Reference
 Thanks to those great writers/ instructors/scholars   
 [Deep Learning #3: More on CNNs & Handling Overfitting][001], Rutger Ruizendaal   
-[categorical_crossentropy VS. sparse_categorical_crossentropy][002], Jovian Lin, Ph.D.
+[categorical_crossentropy VS. sparse_categorical_crossentropy][002], Jovian Lin, Ph.D.  
+[VIP cheatsheets for Stanford's CS 229 Machine Learning][003], Afshine Amidi and Shervine Amidi
+
 
 
 
@@ -68,3 +70,4 @@ Link reference:
 -->
 [001]: https://towardsdatascience.com/deep-learning-3-more-on-cnns-handling-overfitting-2bd5d99abe5d
 [002]: https://jovianlin.io/cat-crossentropy-vs-sparse-cat-crossentropy/
+[003]: https://stanford.edu/~shervine/teaching/cs-229.html
